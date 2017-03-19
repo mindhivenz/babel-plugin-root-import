@@ -1,0 +1,9 @@
+config
+node_modules
+plugin
+.idea
+test
+.babelrc
+.travis.yml
+.gitignore
+.eslintrc
